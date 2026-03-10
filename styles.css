@@ -628,6 +628,14 @@ section {
   box-shadow: 0 10px 25px rgba(19, 27, 48, 0.15);
 }
 
+.avatar-dmitriy {
+  background-image: url("2026-03-10 17.29.51.jpg");
+  background-size: 230%;
+  background-position: 50% 20%;
+  border: 2px solid rgba(31, 143, 160, 0.4);
+  box-shadow: 0 10px 25px rgba(19, 27, 48, 0.15);
+}
+
 .member-links {
   color: var(--accent);
   margin-top: 0.6rem;
