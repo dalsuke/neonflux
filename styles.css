@@ -604,6 +604,30 @@ section {
   box-shadow: 0 0 18px rgba(0, 240, 255, 0.2);
 }
 
+.avatar-maxim {
+  background-image: url("2026-03-10 16.58.17.jpg");
+  background-size: 140%;
+  background-position: 50% 35%;
+  border: 2px solid rgba(31, 143, 160, 0.4);
+  box-shadow: 0 10px 25px rgba(19, 27, 48, 0.15);
+}
+
+.avatar-ramis {
+  background-image: url("2026-03-10 17.01.00.jpg");
+  background-size: 180%;
+  background-position: 50% 28%;
+  border: 2px solid rgba(31, 143, 160, 0.4);
+  box-shadow: 0 10px 25px rgba(19, 27, 48, 0.15);
+}
+
+.avatar-ilnaz {
+  background-image: url("2026-03-10 17.03.26.jpg");
+  background-size: 140%;
+  background-position: 50% 35%;
+  border: 2px solid rgba(31, 143, 160, 0.4);
+  box-shadow: 0 10px 25px rgba(19, 27, 48, 0.15);
+}
+
 .member-links {
   color: var(--accent);
   margin-top: 0.6rem;
